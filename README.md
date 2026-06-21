@@ -35,3 +35,4 @@ A lightweight terminal game inspired by [Bloxorz](https://flashgaming.fandom.com
 8. You will see sample level files codified inside the PLACEHOLDER directory.
 
 Have fun! Once loaded, wou will be able to either play by yourself or find a solution using the [A* algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm).
+You will see that in order to move you need to use the h/j/k/l vi motions. In the future UX will be enhanced since this was a school project with a lot of constraints that sacrifice performance. This will be fixed over time.
