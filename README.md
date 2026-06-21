@@ -20,7 +20,7 @@ A lightweight terminal game inspired by [Bloxorz](https://flashgaming.fandom.com
     ghci *.hs
     ```
 
-6. Import all modules:
+6. Once inside the interpreter, import all modules:
     ```
     ghci> :m Main Parser Controller Game Utils
     ```
